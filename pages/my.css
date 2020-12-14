@@ -1,0 +1,33 @@
+img {
+    height: 50%;
+    width: 50%;
+    text-align: center;
+}
+
+.i {
+    position: relative;
+    top: -16px;
+    text-align: center;
+    color: gray;
+}
+
+.para {
+    height: fit-content;
+    padding-top: 0%;
+}
+
+.sline {
+    position: relative;
+    top: 64px;
+    height: 80px;
+    border-top: 2px solid #ddd;
+    text-align: center;
+    color: #0000007f;
+}
+
+.sline span {
+    position: relative;
+    top: -8px;
+    background: #fff;
+    padding: 0 20px;
+}
